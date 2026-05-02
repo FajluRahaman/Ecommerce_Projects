@@ -98,11 +98,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 If you have any questions or suggestions, feel free to contact us:
-- Email: [demad2527@gmail.com](mailto:Basmadness@iti.gov.eg)
+- Email: [fajlurahaman185@gmail.com]
   
 
-Follow us on social media:
-- [LinkedIn](https://www.linkedin.com/in/david-emad-494a43215/)
+
 
 
 Thank you for visiting **BASMADness Open Market**!
